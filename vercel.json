@@ -9,6 +9,7 @@
   ],
   "routes": [
     { "handle": "filesystem" },
-    { "src": "/(.*)", "dest": "/index.html" }
+    { "src": "^/(.*)$", "dest": "/React_E-Commerce/build/$1" },
+    { "src": "^/.*$", "dest": "/React_E-Commerce/build/index.html" }
   ]
 }
