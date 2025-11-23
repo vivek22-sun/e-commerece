@@ -9,7 +9,7 @@ const Footer = () => {
             <p className="mb-3 mb-md-0">Copyright © 2025 All rights reserved by{" "}
               <a  href="https://sahibsingh.dev" className="text-decoration-underline text-dark fs-5" target="_blank" rel="noreferrer">Vivek</a>
             </p>
-            <a className="text-dark fs-4" href="" target="_blank" rel="noreferrer">
+            <a className="text-dark fs-4" href="https://github.com/vivek22-sun/e-commerece" target="_blank" rel="noreferrer">
               <i className="fa fa-github"></i>
             </a>
           </div>
